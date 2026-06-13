@@ -1,7 +1,8 @@
 # CSE 151B SP26 Competition Submission
 
 Team: PTS(D) — Tanya Sinha, Jiayi Gao, Phuc Tran
-Private leaderboard score: **0.706**
+Public leaderboard score: **0.706**
+Private leaderboard score: **0.606**
 
 ## TL;DR for verification (200-question re-run)
 
